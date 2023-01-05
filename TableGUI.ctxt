@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TableGUI
+comment1.params=
+comment1.target=TableGUI()
+comment2.params=handType
+comment2.target=void\ chooseHand(int)
+comment3.params=
+comment3.target=void\ chooseCompHand()
+comment4.params=player\ comp
+comment4.target=int\ findWinner(Hand,\ Hand)
+comment5.params=page
+comment5.target=void\ paintComponent(java.awt.Graphics)
+numComments=6
